@@ -1,0 +1,13 @@
+pip
+autopep8
+Flask==3.0.3
+gunicorn==22.0.0
+Werkzeug==3.0.3
+pandas
+llama-index-core
+llama-index-llms-gemini
+llama-index-experimental
+pyvis
+arize-phoenix
+python-dotenv
+llama-index-llms-anthropic
